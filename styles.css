@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+ div{
+    width: 200px;
+	
+    padding: 10px;
+    border: solid ;
+    border-color: white;
+    border-left-width: 5px;
+    border-left-color: green ;
+    background-color: purple;
+}
+h1{
+    color: white;
+    font-size: 20px;
+    text-decoration: underline;
+}
